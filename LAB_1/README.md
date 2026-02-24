@@ -13,15 +13,15 @@ The project follows a modular architecture and demonstrates strong understanding
 <h2 align="left">Project Architecture</h2>
 <p align="left"> The application is divided into three core components: </p> <div align="left">
 
-📄 <b>header.h</b> → Structure definition & function prototypes
-📄 <b>functions.c</b> → Implementation of all operations
-📄 <b>main.c</b> → Menu-driven user interface
+📄 <b>header.h</b> → Structure definition & function prototypes<br>
+📄 <b>functions.c</b> → Implementation of all operations<br>
+📄 <b>main.c</b> → Menu-driven user interface<br>
 
 </div>
 <h2 align="left">Structure Definition</h2>
 <div align="center"> <pre> Stat(Name of country, capital, area, population, PIB); </pre> </div>
 <h2 align="left">Application Menu</h2>
-<div align="center"> <pre> 
+<div align="left"> <pre> 
   1) Add data (Firstly / Lasted / After indicated element / Before indicated element) 
   2) view data
   3) Seach element form storage data
@@ -55,10 +55,10 @@ The project follows a modular architecture and demonstrates strong understanding
 <h2 align="left">Concepts Demonstrated</h2>
 <div align="left">
 
-• Abstract Data Types (ADT)
-• Structured programming in C
-• Pointer manipulation
-• Dynamic memory management
-• File I/O operations
-• Modular software design
+• Abstract Data Types (ADT)<br>
+• Structured programming in C<br>
+• Pointer manipulation<br>
+• Dynamic memory management<br>
+• File I/O operations<br>
+• Modular software design<br>
 </div>

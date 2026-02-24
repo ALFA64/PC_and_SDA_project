@@ -39,13 +39,13 @@ The project follows a modular architecture and demonstrates strong understanding
 <h2 align="left">Core Functionalities</h2>
 <div align="left">
 
-✔ Dynamic allocation using <code>malloc()</code>
-✔ Dynamic resizing using <code>realloc()</code>
-✔ Memory deallocation using <code>free()</code>
-✔ Sorting by population
-✔ Searching by name
-✔ File persistence
-✔ Modular clean code structure
+✔ Dynamic allocation using <code>malloc()</code><br>
+✔ Dynamic resizing using <code>realloc()</code><br>
+✔ Memory deallocation using <code>free()</code><br>
+✔ Sorting by population<br>
+✔ Searching by name<br>
+✔ File persistence<br>
+✔ Modular clean code structure<br>
 
 </div>
 <h2 align="left">Compilation</h2>

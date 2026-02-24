@@ -36,7 +36,7 @@ The project follows a modular architecture and demonstrates strong understanding
   0) EXIT
 </pre> </div>
 <div align="center">
-  <img height="300" src="https://github.com/ALFA64/PC_and_SDA_project/blob/SDA_project/LAB_1/img/Imagine1.png"/>
+  <img height="200" src="https://github.com/ALFA64/PC_and_SDA_project/blob/SDA_project/LAB_1/img/Imagine1.png"/>
 </div>
 <h2 align="left">Core Functionalities</h2>
 <div align="left">

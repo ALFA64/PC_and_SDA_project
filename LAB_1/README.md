@@ -35,7 +35,7 @@ The project follows a modular architecture and demonstrates strong understanding
   c) Clean screen panel
   0) EXIT
 </pre> </div>
-<img height="250" src="https://github.com/ALFA64/PC_and_SDA_project/blob/SDA_project/LAB_1/img/Imagine1.png"/>
+<img height="300" src="https://github.com/ALFA64/PC_and_SDA_project/blob/SDA_project/LAB_1/img/Imagine1.png" align="center"/>
 <h2 align="left">Core Functionalities</h2>
 <div align="left">
 
